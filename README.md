@@ -1,4 +1,6 @@
-### Hi there 👋
+# About me
+
+#### I am currently studying a course to become fullstack developer. I want to use what i've learnt to become a frontend developer. Please stay tuned for future updates.
 
 <!--
 **Limchiem/Limchiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
